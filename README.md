@@ -1,5 +1,5 @@
 
-# Smart City IoT Data Streaming Project
+# Smart City IoT Data Streaming Project by Avi Ajmera & Hasan Mhowwala
 
 The **Smart City IoT Data Streaming Project** provides a robust and scalable pipeline for real-time data streaming, processing, and analytics. It leverages IoT, Kafka, Spark, and AWS technologies to simulate and process data related to urban mobility and vehicle monitoring, offering actionable insights for smarter city planning and management.
 
@@ -89,7 +89,7 @@ The following diagram illustrates the end-to-end architecture of the Smart City 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/ajmeraavi/smartcity.git
    cd Smartcity
    ```
 
